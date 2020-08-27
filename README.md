@@ -30,7 +30,7 @@ MacOS Catalina on ThinkPad T440/T440s
 | Memory              | Samsung DDR3L 8GB Bus 1600MHz               |
 | Hard Disk           | Samsung SSD P851                            |
 | Integrated Graphics | Intel HD Graphics 4400                      |
-| Monitor             | AUO B140HAN01.3 FHD IPS 1920x1080           |
+| Monitor             | FHD IPS 1920x1080           |
 | Sound Card          | Realtek ALC292                              |
 | Wireless Card       | Intel Dual Band Wireless-AC 7260            |
 
