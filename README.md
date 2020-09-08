@@ -115,3 +115,10 @@ I sell wifi card so please contact me if you need (only ship in Vietnam)
 - SD Card Reader after wake from sleep can't eject normally, you have to Force Eject.
 - Kernel Panic into an Instant Reboot when attempting sleep, restart or Shutdown while External Display connected on one of the Docking Station Video Ports (DisplayPort, DVI, VGA)
 - No DisplayPort Audio when using the Docking Station DisplayPort
+
+## Thanks to
+
+- @MSzturc
+- @Sniki
+- @acidanthera and OpenCore Team
+- All
