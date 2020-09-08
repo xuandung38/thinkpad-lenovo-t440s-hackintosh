@@ -74,7 +74,7 @@ I sell wifi card so please contact me if you need (only ship in Vietnam)
 
 - [AppleALC.kext](https://github.com/acidanthera/AppleALC)
 - [CodecCommander.kext](https://github.com/Sniki/EAPD-Codec-Commander)
-- [IntelMausiEthernet.kext](https://github.com/mieze/IntelMausiEthernet)
+- [IntelMausi.kext](https://github.com/acidanthera/IntelMausi)
 - [Lilu.kext](https://github.com/acidanthera/Lilu)
 - [Sinetek-rtsx.kext](https://github.com/cholonam/Sinetek-rtsx)
 - SMCBatteryManager.kext
