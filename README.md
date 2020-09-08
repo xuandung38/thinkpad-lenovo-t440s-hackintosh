@@ -68,7 +68,7 @@ I sell wifi card so please contact me if you need (only ship in Vietnam)
 ## Installation
 
 ### 1. BootLoader
-- OpenCore 0.6.0
+- OpenCore 0.6.1
 
 ### 2. Kexts used
 
