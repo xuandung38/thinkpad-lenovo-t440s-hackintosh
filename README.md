@@ -82,7 +82,7 @@ I sell wifi card so please contact me if you need (only ship in Vietnam)
 - SMCProcessor.kext
 - USBPorts.kext
 - [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)
-- [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) (use version 2.1.3)
+- [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) (use latest version)
 - [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen)
 
 ### 3. Tool
