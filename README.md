@@ -1,6 +1,6 @@
 # MacOS ThinkPad T440/T440s
 
-MacOS Catalina on ThinkPad T440/T440s
+MacOS Mojave,Catalina,BigSur beta 9  on ThinkPad T440/T440s
 
 ## Pre-Installation
 
@@ -22,7 +22,7 @@ MacOS Catalina on ThinkPad T440/T440s
 | Boot Mode | Quick |
 
 
-### 3. Configuration
+### 3. Specs
 
 | Specifications      | Detail                                      |
 | ------------------- | ------------------------------------------- |
