@@ -68,7 +68,7 @@ I sell wifi card so please contact me if you need (only ship in Vietnam)
 ## Installation
 
 ### 1. BootLoader
-- OpenCore 0.6.1
+- OpenCore 0.6.2
 
 ### 2. Kexts used
 
@@ -108,6 +108,8 @@ I sell wifi card so please contact me if you need (only ship in Vietnam)
 - Added *-rtsx_mimic-linux* <b>boot-arg</b> to fix SD Card Detection and initialization after wake from sleep.
 
 - Add MAC address of Builtin Ethernet to Config.plist > PlatformInfo > Generic > ROM.
+
+- Replace platform info (use genSMBIOS) Model MacBookPro11,1
 
 ## Known Issues:
 
