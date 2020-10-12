@@ -18,7 +18,7 @@ MacOS Mojave,Catalina,BigSur beta 9  on ThinkPad T440/T440s
 | Fingerprint Reader | Disabled |
 | Secure Boot | Disabled |
 | UEFI/Legacy Boot | UEFI Only |
-| CSM Support | No |
+| CSM Support | YES |
 | Boot Mode | Quick |
 
 
@@ -30,9 +30,9 @@ MacOS Mojave,Catalina,BigSur beta 9  on ThinkPad T440/T440s
 | Memory              | Samsung DDR3L 8GB Bus 1600MHz               |
 | Hard Disk           | Samsung SSD P851                            |
 | Integrated Graphics | Intel HD Graphics 4400                      |
-| Monitor             | FHD IPS 1920x1080           |
+| Monitor             | FHD IPS 1920x1080                           |
 | Sound Card          | Realtek ALC292                              |
-| Wireless Card       | Intel Dual Band Wireless-AC 7260            |
+| Wireless            | Intel Dual Band Wireless-AC 7260 (Replace to BCM94360CS2   |
 
 ### 4. Current Status
 
@@ -50,7 +50,7 @@ MacOS Mojave,Catalina,BigSur beta 9  on ThinkPad T440/T440s
 - Function Keys (Fn)
 - ClickPad and TrackPad
 - Integrated Camera
-
+- Wireless (Intel) work with itlwm (enable in config)
 
 #### Not working
 
